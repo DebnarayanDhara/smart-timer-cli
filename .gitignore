@@ -1,0 +1,42 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+ENV/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Output folders (QR codes, timer logs, etc.)
+output/
+logs/
+*.csv
+*.txt
+
+# Example images or generated files
+examples/*.png
+examples/*.jpg
+examples/*.svg
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Config files (optional, if you don’t want to track user-specific configs)
+config.json

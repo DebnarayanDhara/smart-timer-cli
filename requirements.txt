@@ -1,0 +1,14 @@
+# Core Python libraries (already included with Python, listed for clarity)
+datetime
+time
+json
+csv
+os
+sys
+
+# Sound alert (Windows built-in: winsound, for cross-platform use install playsound)
+playsound==1.3.0
+
+# Optional: For advanced statistics or plotting (future improvements)
+matplotlib==3.9.2
+pandas==2.2.2
