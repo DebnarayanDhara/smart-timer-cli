@@ -46,6 +46,9 @@ It is built entirely in Python and runs in the command line interface (CLI).
 - **Menu-driven CLI** for easy navigation  
 
 ---
+## Author
+
+**Debnarayan Dhara**
 
 ## 3. Installation
 Clone the repository and install requirements:
@@ -55,7 +58,3 @@ git clone https://github.com/debnarayandhara/smart-timer-cli.git
 cd countdown-timer
 pip install -r requirements.txt
 
-
-## Author
-
-**Debnarayan Dhara**
